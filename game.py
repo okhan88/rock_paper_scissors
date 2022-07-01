@@ -38,7 +38,7 @@ while True:
         elif randomNumber == 3:
             computerMove = "s"
             print('SCISSORS')
-
+            
         #below is the code for the display of the record of wins, losses, and ties
         if playerMove == computerMove:
             print("It's a TIE")
